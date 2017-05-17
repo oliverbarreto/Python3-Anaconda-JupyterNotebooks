@@ -1,4 +1,4 @@
-# Automating Juyter configuration 
+# Automating Jupyter configuration with Anaconda
 
 If you have a anaconda and pytohn docker image you can work with juypter notebooks. However, instead of writing a long command everytime we start the docker image, we are going to create a config file to config jupyter and override default options.
 
